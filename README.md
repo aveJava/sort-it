@@ -43,8 +43,8 @@
 
 
 Пример (для -i -a out.txt  in1.txt in2.txt in3.txt):<br>
-
-in1.txt     in2.txt     in3.txt     out.txt
+<pre>
+in1.txt:    in2.txt     in3.txt     out.txt
    1           1           1           1
    4           8           2           1
    9           27          3           1
@@ -54,9 +54,4 @@ in1.txt     in2.txt     in3.txt     out.txt
                                        8
                                        9
                                        27
-
-
-
-
-
-
+</pre>
