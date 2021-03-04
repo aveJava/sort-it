@@ -41,20 +41,19 @@
    К решению должна прилагаться инструкция по запуску. В ней также можно отображать
    особенности реализации, не уточненные в задании.
 
+
 Пример (для -i -a out.txt  in1.txt in2.txt in3.txt):<br>
 
-<span style="margin-left: 50px;"> in1.txt </span> <span style="margin-left: 50px;"> in2.txt </span> <span style="margin-left: 50px;"> in3.txt </span> <span style="margin-left: 50px;"> out.txt </span><br>
-
-<span style="margin-left: 50px;"> 1 </span> <span style="margin-left: 81px;"> 1 </span> <span style="margin-left: 82px;"> 1 </span> <span style="margin-left: 81px;"> 1 </span><br>
-<span style="margin-left: 50px;"> 4 </span> <span style="margin-left: 82px;"> 8 </span> <span style="margin-left: 82px;"> 2 </span> <span style="margin-left: 80px;"> 1 </span><br>
-<span style="margin-left: 50px;"> 9 </span> <span style="margin-left: 81px;"> 27 </span> <span style="margin-left: 75px;"> 3 </span> <span style="margin-left: 80px;"> 1 </span><br>
-<span style="margin-left: 333px;"> 2 </span><br>
-<span style="margin-left: 333px;"> 3 </span><br>
-<span style="margin-left: 333px;"> 4 </span><br>
-<span style="margin-left: 333px;"> 8 </span><br>
-<span style="margin-left: 333px;"> 9 </span><br>
-<span style="margin-left: 333px;"> 27 </span><br>
-
+in1.txt     in2.txt     in3.txt     out.txt
+   1           1           1           1
+   4           8           2           1
+   9           27          3           1
+                                       2
+                                       3
+                                       4
+                                       8
+                                       9
+                                       27
 
 
 
